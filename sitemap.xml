@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://www.akshayshipurkar.com/blog/mission-accomplished/</loc>
+    <lastmod>2017-10-27T16:02:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.akshayshipurkar.com/blog/happy-diwali/</loc>
+    <lastmod>2017-10-19T14:51:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.akshayshipurkar.com/</loc>
+    <lastmod>2017-10-27T16:02:30+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.akshayshipurkar.com/blog/</loc>
+    <lastmod>2017-10-27T16:02:30+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.akshayshipurkar.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.akshayshipurkar.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
