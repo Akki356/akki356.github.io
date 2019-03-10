@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2017 on Akshay Shipurkar</title>
-    <link>https://akshayshipurkar.com/tags/2017/</link>
+    <link>http://akshayshipurkar.com/tags/2017/</link>
     <description>Recent content in 2017 on Akshay Shipurkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 23 Nov 2017 22:42:34 +0530</lastBuildDate>
     
-	<atom:link href="https://akshayshipurkar.com/tags/2017/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://akshayshipurkar.com/tags/2017/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pycon India 2017</title>
-      <link>https://akshayshipurkar.com/blog/pycon-india-2017/</link>
+      <link>http://akshayshipurkar.com/blog/pycon-india-2017/</link>
       <pubDate>Thu, 23 Nov 2017 22:42:34 +0530</pubDate>
       
-      <guid>https://akshayshipurkar.com/blog/pycon-india-2017/</guid>
+      <guid>http://akshayshipurkar.com/blog/pycon-india-2017/</guid>
       <description>The journey for Pycon India started at on 2nd November, 2017. It was a four day event the first two days were dev sprints and the main conference was on the 3rd and the 4th day. I left for Delhi from Mumbai on 2nd November by an early morning Flight. This was the first time i was travelling with Vistara, and yes they pamper their customers alot. The fights are on time, awesome crew and delicious food too 😛.</description>
     </item>
     
     <item>
       <title>Happy Diwali</title>
-      <link>https://akshayshipurkar.com/blog/happy-diwali/</link>
+      <link>http://akshayshipurkar.com/blog/happy-diwali/</link>
       <pubDate>Thu, 19 Oct 2017 14:51:42 +0530</pubDate>
       
-      <guid>https://akshayshipurkar.com/blog/happy-diwali/</guid>
+      <guid>http://akshayshipurkar.com/blog/happy-diwali/</guid>
       <description>This is my first blog post after a long time. Previously I had a blog at akshayshipurkar.me/blog then i got a new domain name i.e akshayshipurkar.com, I had ported it to the new domain. Now i want to get the clutter of themes and wordpress updates out of the way, so i have decided to go ahead with hugo for a fresh start on this occation of Diwali. From now i will try to be consistant in blogging.</description>
     </item>
     

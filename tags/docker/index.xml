@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docker on Akshay Shipurkar</title>
-    <link>https://akshayshipurkar.com/tags/docker/</link>
+    <link>http://akshayshipurkar.com/tags/docker/</link>
     <description>Recent content in Docker on Akshay Shipurkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 27 Feb 2018 20:13:34 +0530</lastBuildDate>
     
-	<atom:link href="https://akshayshipurkar.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://akshayshipurkar.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Installing Practice Terminal For Linux Foundation Exam</title>
-      <link>https://akshayshipurkar.com/blog/installing-practice-terminal-for-linux-foundation-exam/</link>
+      <link>http://akshayshipurkar.com/blog/installing-practice-terminal-for-linux-foundation-exam/</link>
       <pubDate>Tue, 27 Feb 2018 20:13:34 +0530</pubDate>
       
-      <guid>https://akshayshipurkar.com/blog/installing-practice-terminal-for-linux-foundation-exam/</guid>
+      <guid>http://akshayshipurkar.com/blog/installing-practice-terminal-for-linux-foundation-exam/</guid>
       <description>I have had a tough time installing gateone terminal for practicing for openstack coa exam. It could be frustrating and time consuming to install and get gateone terminal running. After lot of searching and toiling over this problem i finally found the solution. Its one liner but you need to have docker installed on your machine before you can run it.
 Here goes the command.
  docker run &amp;ndash;name gateone -p 443:10443 -p 2345:22 -d greyltc/gateone</description>
