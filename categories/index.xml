@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Akshay Shipurkar</title>
-    <link>akshayshipurkar.com/categories/</link>
+    <link>https://akshayshipurkar.com/categories/</link>
     <description>Recent content in Categories on Akshay Shipurkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="akshayshipurkar.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://akshayshipurkar.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Certificates</title>
-      <link>akshayshipurkar.com/categories/certificates/</link>
+      <link>https://akshayshipurkar.com/categories/certificates/</link>
       <pubDate>Mon, 16 Apr 2018 09:21:53 +0530</pubDate>
       
-      <guid>akshayshipurkar.com/categories/certificates/</guid>
+      <guid>https://akshayshipurkar.com/categories/certificates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Milestone</title>
-      <link>akshayshipurkar.com/categories/milestone/</link>
+      <link>https://akshayshipurkar.com/categories/milestone/</link>
       <pubDate>Fri, 29 Dec 2017 18:41:41 +0530</pubDate>
       
-      <guid>akshayshipurkar.com/categories/milestone/</guid>
+      <guid>https://akshayshipurkar.com/categories/milestone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>akshayshipurkar.com/categories/personal/</link>
+      <link>https://akshayshipurkar.com/categories/personal/</link>
       <pubDate>Thu, 23 Nov 2017 22:42:34 +0530</pubDate>
       
-      <guid>akshayshipurkar.com/categories/personal/</guid>
+      <guid>https://akshayshipurkar.com/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Progamming</title>
-      <link>akshayshipurkar.com/categories/progamming/</link>
+      <link>https://akshayshipurkar.com/categories/progamming/</link>
       <pubDate>Mon, 18 Dec 2017 18:17:31 +0530</pubDate>
       
-      <guid>akshayshipurkar.com/categories/progamming/</guid>
+      <guid>https://akshayshipurkar.com/categories/progamming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>akshayshipurkar.com/categories/tutorial/</link>
+      <link>https://akshayshipurkar.com/categories/tutorial/</link>
       <pubDate>Tue, 27 Feb 2018 20:13:34 +0530</pubDate>
       
-      <guid>akshayshipurkar.com/categories/tutorial/</guid>
+      <guid>https://akshayshipurkar.com/categories/tutorial/</guid>
       <description></description>
     </item>
     
