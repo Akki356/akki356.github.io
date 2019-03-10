@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Delhi on Akshay Shipurkar</title>
-    <link>http://www.akshayshipurkar.com/tags/delhi/</link>
+    <link>akshayshipurkar.com/tags/delhi/</link>
     <description>Recent content in Delhi on Akshay Shipurkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 23 Nov 2017 22:42:34 +0530</lastBuildDate>
     
-	<atom:link href="http://www.akshayshipurkar.com/tags/delhi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="akshayshipurkar.com/tags/delhi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pycon India 2017</title>
-      <link>http://www.akshayshipurkar.com/blog/pycon-india-2017/</link>
+      <link>akshayshipurkar.com/blog/pycon-india-2017/</link>
       <pubDate>Thu, 23 Nov 2017 22:42:34 +0530</pubDate>
       
-      <guid>http://www.akshayshipurkar.com/blog/pycon-india-2017/</guid>
+      <guid>akshayshipurkar.com/blog/pycon-india-2017/</guid>
       <description>The journey for Pycon India started at on 2nd November, 2017. It was a four day event the first two days were dev sprints and the main conference was on the 3rd and the 4th day. I left for Delhi from Mumbai on 2nd November by an early morning Flight. This was the first time i was travelling with Vistara, and yes they pamper their customers alot. The fights are on time, awesome crew and delicious food too 😛.</description>
     </item>
     
