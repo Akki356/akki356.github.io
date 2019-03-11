@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diwali on Akshay Shipurkar</title>
-    <link>http://akshayshipurkar.com/tags/diwali/</link>
+    <link>//akshayshipurkar.com/tags/diwali/</link>
     <description>Recent content in Diwali on Akshay Shipurkar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 19 Oct 2017 14:51:42 +0530</lastBuildDate>
     
-	<atom:link href="http://akshayshipurkar.com/tags/diwali/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//akshayshipurkar.com/tags/diwali/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Happy Diwali</title>
-      <link>http://akshayshipurkar.com/blog/happy-diwali/</link>
+      <link>//akshayshipurkar.com/blog/happy-diwali/</link>
       <pubDate>Thu, 19 Oct 2017 14:51:42 +0530</pubDate>
       
-      <guid>http://akshayshipurkar.com/blog/happy-diwali/</guid>
+      <guid>//akshayshipurkar.com/blog/happy-diwali/</guid>
       <description>This is my first blog post after a long time. Previously I had a blog at akshayshipurkar.me/blog then i got a new domain name i.e akshayshipurkar.com, I had ported it to the new domain. Now i want to get the clutter of themes and wordpress updates out of the way, so i have decided to go ahead with hugo for a fresh start on this occation of Diwali. From now i will try to be consistant in blogging.</description>
     </item>
     

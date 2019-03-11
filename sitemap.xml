@@ -2,233 +2,233 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://akshayshipurkar.com/certificates/</loc>
+    <loc>//akshayshipurkar.com/certificates/</loc>
     <lastmod>2018-04-16T09:21:53+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/blog/installing-practice-terminal-for-linux-foundation-exam/</loc>
+    <loc>//akshayshipurkar.com/blog/installing-practice-terminal-for-linux-foundation-exam/</loc>
     <lastmod>2018-02-27T20:13:34+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/blog/becoming-the-team-leader/</loc>
+    <loc>//akshayshipurkar.com/blog/becoming-the-team-leader/</loc>
     <lastmod>2017-12-29T18:41:41+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/blog/bash-basics/</loc>
+    <loc>//akshayshipurkar.com/blog/bash-basics/</loc>
     <lastmod>2017-12-18T18:17:31+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/blog/pycon-india-2017/</loc>
+    <loc>//akshayshipurkar.com/blog/pycon-india-2017/</loc>
     <lastmod>2017-11-23T22:42:34+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/blog/mission-accomplished/</loc>
+    <loc>//akshayshipurkar.com/blog/mission-accomplished/</loc>
     <lastmod>2017-10-27T16:02:30+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/blog/happy-diwali/</loc>
+    <loc>//akshayshipurkar.com/blog/happy-diwali/</loc>
     <lastmod>2017-10-19T14:51:42+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/tags/2017/</loc>
+    <loc>//akshayshipurkar.com/tags/2017/</loc>
     <lastmod>2017-11-23T22:42:34+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/</loc>
+    <loc>//akshayshipurkar.com/</loc>
     <lastmod>2018-04-16T09:21:53+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/tags/akshay-shipurkar/</loc>
+    <loc>//akshayshipurkar.com/tags/akshay-shipurkar/</loc>
     <lastmod>2017-10-19T14:51:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/tags/bash/</loc>
+    <loc>//akshayshipurkar.com/tags/bash/</loc>
     <lastmod>2017-12-18T18:17:31+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/tags/belson/</loc>
-    <lastmod>2017-10-27T16:02:30+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://akshayshipurkar.com/blog/</loc>
-    <lastmod>2018-02-27T20:13:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://akshayshipurkar.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://akshayshipurkar.com/tags/certificates/</loc>
-    <lastmod>2018-04-16T09:21:53+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://akshayshipurkar.com/categories/certificates/</loc>
-    <lastmod>2018-04-16T09:21:53+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://akshayshipurkar.com/tags/certification/</loc>
-    <lastmod>2018-04-16T09:21:53+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://akshayshipurkar.com/tags/delhi/</loc>
-    <lastmod>2017-11-23T22:42:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://akshayshipurkar.com/tags/diwali/</loc>
-    <lastmod>2017-10-19T14:51:42+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://akshayshipurkar.com/tags/docker/</loc>
-    <lastmod>2018-02-27T20:13:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://akshayshipurkar.com/tags/gateone/</loc>
-    <lastmod>2018-02-27T20:13:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://akshayshipurkar.com/tags/gavin/</loc>
+    <loc>//akshayshipurkar.com/tags/belson/</loc>
     <lastmod>2017-10-27T16:02:30+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/tags/hardware/</loc>
-    <lastmod>2017-12-18T18:17:31+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://akshayshipurkar.com/tags/hooli/</loc>
-    <lastmod>2017-12-18T18:17:31+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://akshayshipurkar.com/tags/india/</loc>
-    <lastmod>2017-11-23T22:42:34+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://akshayshipurkar.com/tags/leadership/</loc>
-    <lastmod>2017-12-29T18:41:41+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://akshayshipurkar.com/tags/lfcs/</loc>
+    <loc>//akshayshipurkar.com/blog/</loc>
     <lastmod>2018-02-27T20:13:34+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/tags/linux-foundation/</loc>
+    <loc>//akshayshipurkar.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//akshayshipurkar.com/categories/certificates/</loc>
     <lastmod>2018-04-16T09:21:53+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/categories/milestone/</loc>
-    <lastmod>2017-12-29T18:41:41+05:30</lastmod>
+    <loc>//akshayshipurkar.com/tags/certificates/</loc>
+    <lastmod>2018-04-16T09:21:53+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/tags/newstart/</loc>
+    <loc>//akshayshipurkar.com/tags/certification/</loc>
+    <lastmod>2018-04-16T09:21:53+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//akshayshipurkar.com/tags/delhi/</loc>
+    <lastmod>2017-11-23T22:42:34+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//akshayshipurkar.com/tags/diwali/</loc>
     <lastmod>2017-10-19T14:51:42+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/tags/openstack-coa/</loc>
+    <loc>//akshayshipurkar.com/tags/docker/</loc>
+    <lastmod>2018-02-27T20:13:34+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//akshayshipurkar.com/tags/gateone/</loc>
+    <lastmod>2018-02-27T20:13:34+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//akshayshipurkar.com/tags/gavin/</loc>
+    <lastmod>2017-10-27T16:02:30+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//akshayshipurkar.com/tags/hardware/</loc>
+    <lastmod>2017-12-18T18:17:31+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//akshayshipurkar.com/tags/hooli/</loc>
+    <lastmod>2017-12-18T18:17:31+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//akshayshipurkar.com/tags/india/</loc>
+    <lastmod>2017-11-23T22:42:34+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//akshayshipurkar.com/tags/leadership/</loc>
+    <lastmod>2017-12-29T18:41:41+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//akshayshipurkar.com/tags/lfcs/</loc>
+    <lastmod>2018-02-27T20:13:34+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//akshayshipurkar.com/tags/linux-foundation/</loc>
     <lastmod>2018-04-16T09:21:53+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/categories/personal/</loc>
+    <loc>//akshayshipurkar.com/categories/milestone/</loc>
+    <lastmod>2017-12-29T18:41:41+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//akshayshipurkar.com/tags/newstart/</loc>
+    <lastmod>2017-10-19T14:51:42+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//akshayshipurkar.com/tags/openstack-coa/</loc>
+    <lastmod>2018-04-16T09:21:53+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//akshayshipurkar.com/categories/personal/</loc>
     <lastmod>2017-11-23T22:42:34+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/categories/progamming/</loc>
+    <loc>//akshayshipurkar.com/categories/progamming/</loc>
     <lastmod>2017-12-18T18:17:31+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/tags/programming/</loc>
+    <loc>//akshayshipurkar.com/tags/programming/</loc>
     <lastmod>2017-12-18T18:17:31+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/tags/promoted/</loc>
+    <loc>//akshayshipurkar.com/tags/promoted/</loc>
     <lastmod>2017-12-29T18:41:41+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/tags/pycon/</loc>
+    <loc>//akshayshipurkar.com/tags/pycon/</loc>
     <lastmod>2017-11-23T22:42:34+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/tags/responsibility/</loc>
+    <loc>//akshayshipurkar.com/tags/responsibility/</loc>
     <lastmod>2017-12-29T18:41:41+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/tags/setting-example/</loc>
+    <loc>//akshayshipurkar.com/tags/setting-example/</loc>
     <lastmod>2017-12-29T18:41:41+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/tags/</loc>
+    <loc>//akshayshipurkar.com/tags/</loc>
     <lastmod>2017-11-23T22:42:34+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://akshayshipurkar.com/categories/tutorial/</loc>
+    <loc>//akshayshipurkar.com/categories/tutorial/</loc>
     <lastmod>2018-02-27T20:13:34+05:30</lastmod>
     <priority>0</priority>
   </url>
